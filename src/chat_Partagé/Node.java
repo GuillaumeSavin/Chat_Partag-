@@ -54,6 +54,7 @@ public class Node
         {
             String line = scanner.nextLine();
             node.send(line, "134.59.143.110");
+            node.send(line, "134.59.143.109");
             node.send(line, "134.59.143.125");
             node.send(line, "134.59.143.110");
             node.send(line, "169.254.97.98");
