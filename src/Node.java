@@ -3,7 +3,7 @@ import java.net.UnknownHostException;
 
 public class Node
 {
-    private Inet4Address IP;
+    private Inet4Address IP; //test
     private int port;
 
     public Node() throws UnknownHostException {
